@@ -5,7 +5,6 @@
     <meta charset="utf-8" />
     <title>Practice FIT</title>
     <link rel="stylesheet" href="desktop.css" type="text/css" media="all" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 </head>
 <body>
@@ -18,7 +17,7 @@
             <a class="s3" target="_blank" href="https://www.pexels.com/@chaterine-foto-www-spoke-ro-349501"><i class="far fa-images fa-5x"></i></i></a>
             <a class="s4" target="_blank" href="https://vk.com/id72270229"><i class="fab fa-vk fa-5x"></i></a>
         </div>
-        <div class="phone"><i></i>+380 (99) 95 33 224</div>
+        <div class="phone">+380 (99) 95 33 224</div>
     </div>
 </div>
 </body>
